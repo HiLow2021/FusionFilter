@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FusionFilter.CSharp", "FusionFilter\FusionFilter.CSharp.csproj", "{20966249-AF97-43E3-94CD-A86123A613D2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FusionFilter.Python", "FusionFilter.Python\FusionFilter.Python.pyproj", "{5377BC29-34D1-4A7D-9626-F7C995278CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20966249-AF97-43E3-94CD-A86123A613D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20966249-AF97-43E3-94CD-A86123A613D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20966249-AF97-43E3-94CD-A86123A613D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20966249-AF97-43E3-94CD-A86123A613D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5377BC29-34D1-4A7D-9626-F7C995278CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5377BC29-34D1-4A7D-9626-F7C995278CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF89CB77-8AE2-4061-856B-8B57E86C42E8}
+	EndGlobalSection
+EndGlobal
